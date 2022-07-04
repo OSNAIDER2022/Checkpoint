@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Token Juan Camilo Serna : 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
+=======
+OSNAIDER PALOMINO: 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
+STEPHANIE MARTINEZ: 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
+>>>>>>> 3f419119a867e99b29fbe1ce0417292b90880ee2
